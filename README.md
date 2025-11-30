@@ -7,6 +7,7 @@ This project aims to develop a Python-based MCP (Model Context Protocol) server 
 Discord Chat Bot (Agent Smith) → MCP Server (Python) → ChatGPT**
 
 The project uses the following technologies:
+
 	•	discord.py – to build and manage the Discord agent
 	•	Python – for the MCP server logic and tool implementations
 	•	OpenAI Library – to connect the MCP server to ChatGPT and handle responses
