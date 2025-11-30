@@ -6,7 +6,7 @@ import openai
 
 load_dotenv()
 def chat_with_gpt(question):
-    client = OpenAI(api_key="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") #os.getenv('OPENAI_API_KEY'))
+    client = OpenAI(api_key="XXXXXXXX") #os.getenv('OPENAI_API_KEY'))
     print(f"User question GPT: {question}")
     completion = openai.chat.completions.create(
         messages=[
