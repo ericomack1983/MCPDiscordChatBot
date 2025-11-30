@@ -8,9 +8,10 @@ Discord Chat Bot (Agent Smith) → MCP Server (Python) → ChatGPT**
 
 The project uses the following technologies:
 
-	•	discord.py – to build and manage the Discord agent
-	•	Python – for the MCP server logic and tool implementations
+	•	discord.py Library – to build and manage the Discord agent
+	•	Python running on Flask server – for the MCP server logic and tool implementations
 	•	OpenAI Library – to connect the MCP server to ChatGPT and handle responses
+	•	Cloud Infrastructure running on AWS server (Ec2)
 
 This environment serves as a hands-on study of MCP architecture, context management, and real-time AI interactions within Discord.
 
