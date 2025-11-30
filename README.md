@@ -1,4 +1,4 @@
-# MCPDiscordChatBot
+# AI Agentic - MCP - DiscordChatBot
 MCP Server Study Project – Short Description
 
 This project aims to develop a Python-based MCP (Model Context Protocol) server to understand how AI agents interact with external tools and structured context. The setup is integrated with a Discord chatbot named Agent Smith, which communicates with the MCP server to process requests before passing them to ChatGPT. This creates a full communication flow:
