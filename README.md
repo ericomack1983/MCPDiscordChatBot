@@ -15,7 +15,8 @@ The project uses the following technologies:
 
 This environment serves as a hands-on study of MCP architecture, context management, and real-time AI interactions within Discord.
 
-<img width="311" height="67" alt="Screenshot 2025-11-10 at 4 52 05 PM" src="https://github.com/user-attachments/assets/248eaa29-741d-427a-92fb-6360d2c0a4de" />
+<img width="924" height="521" alt="Screenshot 2025-12-01 at 10 12 42 AM" src="https://github.com/user-attachments/assets/741da517-cab8-45a8-a86a-ecd225eebe55" />
+
 
 <img width="806" height="491" alt="Screenshot 2025-11-30 at 12 56 31 PM" src="https://github.com/user-attachments/assets/a3bd3b6c-515a-44b9-a74c-c9d3d51aae22" />
 <img width="802" height="579" alt="Screenshot 2025-11-30 at 1 56 39 PM" src="https://github.com/user-attachments/assets/9d71a2d8-e198-4cc4-a4af-12fbea5934a8" />
